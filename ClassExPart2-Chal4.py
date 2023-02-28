@@ -1,6 +1,6 @@
 #Jinny Choe
 #2/27/2023
-#Class Exercise Week 3 Part 2 Question 4
+#Class Exercise Week 3 Part 2 Challenge 4: Calories burned
 
 minlist = [10,15,20,25,30] #list of minutes
 callist = [] #initializes calories burned per minute list
