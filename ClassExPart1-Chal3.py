@@ -1,6 +1,6 @@
 #Jinny Choe
 #2/27/2023
-#Class Exercise Week 3 Part 1 Question 3
+#Class Exercise Week 3 Part 1 Challenge 3: One to Five
 
 print ("I will display the numbers 1 to 10")
 
