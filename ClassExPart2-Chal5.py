@@ -1,6 +1,6 @@
 #Jinny Choe
 #2/27/2023
-#Class Exercise Week 3 Part 2 Question 5
+#Class Exercise Week 3 Part 2 Challenge 5: Lap Times
 
 totallapnum = int(input("Enter the number of laps: ")) #requests user input total number of laps ran
 laptime = [] #initializes list and other var
