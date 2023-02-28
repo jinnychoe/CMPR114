@@ -1,6 +1,6 @@
 #Jinny Choe
 #2/27/2023
-#Class Exercise Week 3 Part 1 Question 2
+#Class Exercise Week 3 Part 1 Challenge 2: Sales Commision
 
 #Initialize variables
 TotalSales = 0
