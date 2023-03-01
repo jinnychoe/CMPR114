@@ -25,5 +25,10 @@ def total():
         sum +=value #total the numbers in the list
     average = sum/len(numbers) #len fxn returns number of items in list
     print('The total is ', sum, '. The average is ', average,'.')
-
+      
+    #writes numbers list to file
+    outfile = open('total.txt','w') 
+    outfile.write(str(numbers))
+    outfile.close()
+    print('Recorded numbers in the list')
 total()
