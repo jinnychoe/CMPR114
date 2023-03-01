@@ -1,6 +1,6 @@
 #Jinny Choe
 #2/27/2023
-#Class Exercise Week 3 Part 2 Question 3:
+#Class Exercise Week 3 Part 2 Challenge 3:Bug collector
 n=0 #initializes count for the day
 totalbugs = 0
 days = 5 #total number of days
