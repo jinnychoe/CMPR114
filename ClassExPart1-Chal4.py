@@ -10,7 +10,8 @@ print("Last name:",lastname)
 
 names = ['Winken', 'Blinken', 'Nod'] #defines list
 
-print ("List:", names) #prints list
+formatnames = ", ".join(names) #formats names
+print("List:", formatnames) #prints list
 
 if lastname in names: #finds my name in list
     print ("Last name Choe was found on list.")
@@ -19,13 +20,13 @@ else:
 
 names.append(lastname) #appends name to list
 
-print ("New list:",names) #prints new list
+formatnames = ", ".join(names) #formats names
+print ("New list:", formatnames) #prints new list
 
 for name in names[:]: #removes names that are not same as Choe
     if name != lastname:
         names.remove(name)
     elif name == lastname:
-        print ("New list:", names)
+        formatnames = ", ".join(names)
+        print ("New list:", formatnames)
         print ("Your full name is", firstname, lastname)
-
-
